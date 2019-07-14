@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vaibhawj/pandas_exercises.git/master)
+
 # Pandas Exercises
 
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
